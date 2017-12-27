@@ -1,0 +1,250 @@
+.. _syllabus:
+
+Syllabus
+########
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Spring 2018</h3>
+
+.. include:: def.rst
+
+----
+
+Objective and Topics
+********************
+
+The first notions of formal logic were invented over 2000 years ago as philosophers
+attempted to develop systematic approaches for arriving at statements that were true.
+By the time we approach adulthood, we will have heard many people say (or we will have said ourselves):
+"that seems logical", or "you're being illogical". By this, we understand that (in the first case)
+sound reasoning principles have been used, whereas in the latter case someone may be stating a conclusion
+that cannot be justified by sound reasoning from an initial set of true facts.
+This "every day" notion of logic that manifests itself in the arguments that we make in
+natural language is sometimes referred to as informal logic.
+
+In contrast, in this course, we will study concepts related formal logics.
+In simple terms, a formal logic consists of some syntax for stating claims (properties that are either true
+or false) about the world (or some other more specialized domain in which we are interested)
+and rules for deriving claims that are guaranteed true.
+
+Formal logic is deeply tied to computer science, because computers are great at
+"blindly following rules", and many of the issues in which we are interested in
+computer science can be phrased as basic claims and systems of rules.
+The basic gates and circuits from which computers are built, the behavior of our programs
+as they execute, the protocols that our computer systems used to communicate,
+the expert systems that provide automated assistance to doctors, pilots, etc.
+all can have their behaviors defined or explained using formal logics.
+This is extremely important because it provides the basis for automated ruled-based reasoning for these systems.
+
+In this course, we will learn the basic elements found in a formal logic including syntax for claims and rules
+for making deductions. We will also learn how to judge if our rules are suitable in the
+sense that they only lead us to claims that match the reality of the domain we are reasoning about.
+
+Our focus will be on formal logics for reasoning about program behavior and for programming directly
+in terms of logic. We will see how tools based on logic are used to reason about safety and
+security critical software, network security, and security protocols.
+
+
+
+Materials
+*********
+
+The `"Logika: Programming Logics" online course-notes <http://logika.sireum.org/dschmidt/index.html>`__ are the main course materials.
+Other references will be provided as the course unfolds.
+
+
+Schedule
+********
+
+:Time: Tuedays (T) & Thursdays (U), 11:05am - 12:20pm
+:Place: |DUE1073|
+
+
+Prerequisite
+************
+
+`CIS 200: Fundamentals of Software Design and Implementation <http://courses.k-state.edu/catalog/undergraduate/en/cis.html#CIS200>`__
+
+
+Credits
+*******
+
+3 credits
+
+
+Instructor
+**********
+
+`John Hatcliff <http://cs.k-state.edu/~hatcliff>`__,
+Office:       2160 |EngHall|,
+Office Hours: 12:20-1pm Tuesday and Thursday
+
+
+Graduate Teaching Assistants
+****************************
+
+* Joshua Donnoe,
+  Office:       1117 |EngHall|,
+  Office Hours: (to be announced)
+
+* George (Bud) LaVezzi,
+  Office:       1117 |EngHall|,
+  Office Hours: (to be announced)
+
+
+Grading
+*******
+
+* Homework: 25%  (your lowest homework score will be dropped (not included in your grade calculations))
+
+* Exam 1: 22.5%
+
+* Exam 2: 22.5%
+
+* Final Exam: 30%
+
+
+Final letter grades are assigned based on the following scale:
+90% to earn an A, and 80% to earn a B; 70% to earn a C, and 60% to earn a D.
+
+
+Homeworks
+*********
+
+Homeworks are due almost every week and are to be submitted through
+`GitHub <https://github.com/ksu-cis-301>`__.
+Each student will be given a private repository that can be used to commit
+homework assignments.
+Assignments that are late will not be graded (based the git log),
+unless in case of documented medical or family emergencies.
+
+
+Exams
+*****
+Exams will be closed-book and closed notes.
+The final will be comprehensive, but with emphasis on the latter part of the
+course.
+
+
+Grievances
+**********
+If you think the instructor or the TAs have made an error when grading your test
+or your homework, you are of course very welcome to ask for clarification.
+But complaints about judgment calls, like how much credit to give for
+a partially correct solution, are not encouraged (it is like arguing balls and
+strikes).
+
+
+Attendance Policy
+*****************
+
+In general, there will be NO make-up exams (and homework)!
+Special consideration will be given in only exceptional circumstances.
+Exceptional circumstances are generally limited to:
+
+* Emergencies: death in student's immediate family, or 
+  near-death experience of the student.
+
+* Non-emergencies: certified excused absences for official university activities.
+
+If you believe you qualify for exceptional treatment, you must notify the
+instructor prior to the date of the exam or exercise to be missed.
+
+
+Statement Regarding Academic Honesty
+************************************
+
+Kansas State University has an Honor System based on personal integrity, which 
+is presumed to be sufficient assurance in academic matters one's work is
+performed honestly and without unauthorized assistance. 
+Undergraduate and graduate students, by registration, acknowledge the
+jurisdiction of the Honor System.
+The policies and procedures of the Honor System apply to all full and part-time
+students enrolled in undergraduate and graduate courses on-campus, off-campus,
+and via distance learning.
+The honor system website can be reach via the following URL: 
+http://www.ksu.edu/honor.
+
+A component vital to the Honor System is the inclusion of the Honor Pledge which
+applies to all assignments, examinations, or other course work undertaken by
+students.
+The Honor Pledge is implied, whether or not it is stated:
+"On my honor, as a student, I have neither given nor received unauthorized aid
+on this academic work."
+A grade of XF can result from a breach of academic honesty.
+The F indicates failure in the course; the X indicates the reason is an Honor
+Pledge violation.
+
+
+Other Administrative Issues
+***************************
+
+* **Incompletenes:** An incomplete (I) final grade will be given only by prior
+  arrangement in exceptional circumstances conforming to departmental policy in
+  which the bulk of course work has been completed in passing fashion.
+
+* **Drop Policy:** It is your responsibility to drop the course if you are
+  enrolled but decide not to complete the course --- there are no "automatic"
+  drops due to nonattendance.
+  The University allows a retake of a course with removal of the prior grade,
+  at most once per course, for a maximum of five courses.
+  
+* **Students with Disabilities:** If you have any physical or learning
+  disability which will make it difficult for you to carry out the work as
+  I have outlined in this syllabus or which will require academic
+  accommodations, please notify me the first two weeks of the course.
+
+* **Harrassment:** One purpose of your education is to help you develop skills,
+  approaches, and abilities that are necessary for effective teamwork, and for
+  your success in your profession and as a citizen.
+  It is important that you understand your rights and responsibilities regarding
+  the University's Sexual and Racial Harassment policies (full text of the
+  policies can be found on KSU's web site at
+  http://www.ksu.edu/uauc/fhbook/fhxj.html).
+  If you experience any situations, in or out of class, that seem inappropriate
+  or that make you uncomfortable, a list of resources and courses of action to
+  assist you can be found on the College of Engineering web site at
+  http://www.engg.ksu.edu/harassment-statement.
+
+* **Expectations for Classroom Conduct:** All student activities in the
+  University, including this course, are governed by the Student Judicial
+  Conduct Code as outlined in the Student Government Association By Laws,
+  Article VI, Section 3, number 2.
+  Students that engage in behavior that disrupts the learning environment may be
+  asked to leave the class.
+
+* **Campus Safety:** Kansas State University is committed to providing a safe
+  teaching and learning environment for student and faculty members.
+  In order to enhance your safety in the unlikely case of a campus emergency
+  make sure that you know where and how to quickly exit your classroom and how
+  to follow any emergency directives.
+  To view additional campus emergency information go to the University's main
+  page, http://www.k-state.edu, and click on the Emergency Information button.
+
+* **Copyright Issues:** Class and lecture notes for this course carry a
+  copyright.
+  Students are prohibited from selling (or being paid for taking) notes during
+  this course to or by any person or commercial firm without the express written
+  permission of the professor teaching this course.
+
+For a more complete discussion of these issues see the course policies for the
+College of Engineering at Kansas State University: 
+http://www.cis.ksu.edu/resources/intradept/syllabuspolicies.
+
+
+Notice of Copyright
+*******************
+
+All lectures and course materials are copyrighted.
+During this course students are prohibited from selling notes to or being paid
+for taking notes by any person or commercial firm without the express written
+permission of the instructor teaching this course.
+
+
+Acknowledgment
+**************
+
+The course material, including this syllabus, is adapted from the one taught by 
+|David A. Schmidt|, |Torben Amtoft|, and |Robby|.
+   

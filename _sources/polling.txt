@@ -1,0 +1,39 @@
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Spring 2017</h3>
+
+.. _polling:
+
+Polling
+#######
+
+CS 301 is a large class, and it is often difficult to achieve levels instructor/student interaction that are
+necessary for successful learning and feedback.
+
+In CS 301, we will use a `Classroom Response System <https://en.wikipedia.org/wiki/Audience_response>`__ to:
+
+* facilitate learning by asking students to recall information (the mental act of recalling
+  helps "wire" knowledge into brain so that you can remember it better later)
+
+* help your instructor know when students are understanding a concept or when further review/explanation is needed
+
+* increase engagement and interaction in the classroom.
+
+We will use the Reef Education classroom response system.   To use Reef in class, you can use your laptop (you login
+in your web-based reef account and interact through a web app) or you can use a mobile app for your phone or tablet.
+You also have the option of using a iClicker remote.   We recommend using with the web or mobile Reef app because it
+provides more interaction and feedback.
+
+To get set up for in-class polling, you need to do the following things:
+
+* register/pay for a Reef education account,
+
+* decide which app/remote you want to use,
+
+* associate your Reef account with the Reef CS 301 course, and
+
+* associate your Canvas account with your Reef account.
+
+This `slide deck <https://drive.google.com/open?id=0B2v9RmdjXXbUWFE0UWtwLUdwRlU>`__ contains instructions for
+carrying out the steps above.
+

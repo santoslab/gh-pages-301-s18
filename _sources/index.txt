@@ -1,0 +1,53 @@
+.. toctree::
+   :hidden:
+
+   advice
+   schedule
+   syllabus
+   tools/index
+   polling
+
+Home
+####
+
+.. raw:: html
+
+   <h3>CIS 301: Logical Foundations of Programming, Spring 2018</h3>
+
+.. include:: def.rst
+
+----
+
+This course teaches the basic elements found in a formal logic including
+syntax for claims and rules for making deductions, as well as on how to 
+judge if the rules are suitable in the sense that they only lead to claims
+that match the reality of the domain that are being reasoned.
+The focus will be on formal logics for reasoning about program behavior.
+    
+==================================================  ====================================================================
+**Lectures**                                        Tuesday (T) & Thursday (U), 11:05am - 12:20pm, |DUE1073|
+**Instructor**                                      `John Hatcliff <http://cs.ksu.edu/~hatcliff>`__,
+                                                    Office:       2183 |EngHall|,
+                                                    Office Hours: 12:20-1pm Tuesday and Thursday,
+**Teaching Assistant**                              Joshua Donnoe,
+                                                    Office:       1117 |EngHall|,
+                                                    Office Hours: (to be announced)
+**Teaching Assistant**                              George (Bud) LaVezzi,
+                                                    Office:       1117 |EngHall|,
+                                                    Office Hours: (to be announced)
+**E-mail**                                          ``help-301@santoslab.org`` (for quick questions and appointments)
+                         
+==================================================  ====================================================================
+
+----
+
+* :ref:`syllabus`
+
+* :ref:`advice` (must read!)
+
+* :ref:`schedule`
+
+* `Course Notes <http://logika.sireum.org/dschmidt>`__
+
+* :ref:`tools`
+

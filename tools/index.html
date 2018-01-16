@@ -109,18 +109,12 @@ logics.  Logika is part of a much larger analysis and verification framework dev
 <p>There are two ways of getting set up to use Logika (actually, these methods also provide the entire Sireum framework, but we will only use and talk about the Logika part):</p>
 <ul class="simple">
 <li>[Personal installation] You can install it own your own computer</li>
-<li>[CS Lab installation (direct use and remote desk top)] You can use it via the K-State CS Lab machines (see below for different OS options).</li>
+<li>[CS Lab installation (direct use and remote desk top)] You can use it via the K-State CS Lab machines</li>
 </ul>
 <p>Logika can be used in a nice IntelliJ-based Integrated Verification Environment (Sireum/Logika IVE) (this is what we recommend for doing
 all your classroom exercises and homework).
-There is also a way to call Logika from the command line using its command line interface (Sireum/Logika CLI).</p>
-<p>In summary,</p>
-<ul class="simple">
-<li>choose your method of use for Logika (personal installation, CS lab direct use, CS lab remote desktop)</li>
-<li>complete the &#8220;quick start&#8221; guides above for installing/configuring and confirming that you can use Logika as needed for class activities.</li>
-</ul>
-<p>If you want to do a custom installation of Logika (e.g., install from sources, install IVE into an existing installation of IntelliJ,
-use the Logika CLI, etc.), you can find how to do that in the complete <a class="reference external" href="http://logika.sireum.org/doc/index.html">Logika Documentation</a></p>
+There is also a way to call Logika from the command line using its command line interface (Sireum/Logika CLI) (you can use this if you love command line interfaces, but we recommend the IVE).</p>
+<p>Please follow the installation instructions on the <a class="reference external" href="http://logika.sireum.org/doc/01-getting-started/index.html">Logika web site</a></p>
 </div>
 <div class="section" id="z3">
 <h2>Z3<a class="headerlink" href="#z3" title="Permalink to this headline">¶</a></h2>
@@ -138,107 +132,6 @@ Research.</p>
 <li><a class="reference external" href="https://github.com/z3prover/z3/wiki">Website</a></li>
 <li><a class="reference external" href="https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver">Introductory video</a></li>
 </ul>
-</div>
-<div class="section" id="using-logika-on-your-own-machine">
-<h2>Using Logika on your Own Machine<a class="headerlink" href="#using-logika-on-your-own-machine" title="Permalink to this headline">¶</a></h2>
-<div class="section" id="windows">
-<h3>Windows<a class="headerlink" href="#windows" title="Permalink to this headline">¶</a></h3>
-<p>Installing</p>
-<blockquote>
-<div><ul class="simple">
-<li><a class="reference external" href="https://k-state.instructure.com/courses/36925/files/3539890/download?wrap=1">Quick Start Video</a> (must authenticate with KSOL to watch video)</li>
-<li>(alternatively) Read the instructions for Windows in <a class="reference external" href="http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-windows">Section 1.1.1.1</a> of the Logika documentation</li>
-</ul>
-</div></blockquote>
-<p>Downloading CS 301 Examples Used in Lectures</p>
-<blockquote>
-<div><ul class="simple">
-<li><a class="reference external" href="https://k-state.instructure.com/courses/36925/files/3539894/download?wrap=1">Quick Start Video</a></li>
-</ul>
-</div></blockquote>
-</div>
-<div class="section" id="mac">
-<h3>Mac<a class="headerlink" href="#mac" title="Permalink to this headline">¶</a></h3>
-<p>Installing</p>
-<blockquote>
-<div><ul class="simple">
-<li>Read the instructions for Mac in <a class="reference external" href="http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-macos">Section 1.1.1.1</a> of the Logika documentation</li>
-</ul>
-</div></blockquote>
-<p>Downloading CS 301 Examples Used in Lectures</p>
-<blockquote>
-<div><ul class="simple">
-<li>Follow the concepts in this video related to obtaining the examples.  They may be slightly different for Mac <a class="reference external" href="https://k-state.instructure.com/courses/36925/files/3539894/download?wrap=1">Quick Start Video</a></li>
-</ul>
-</div></blockquote>
-</div>
-<div class="section" id="linux">
-<h3>Linux<a class="headerlink" href="#linux" title="Permalink to this headline">¶</a></h3>
-<p>Installing</p>
-<blockquote>
-<div><ul class="simple">
-<li>Read the instructions for Linux in <a class="reference external" href="http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-linux">Section 1.1.1.1</a> of the Logika documentation</li>
-</ul>
-</div></blockquote>
-<p>Downloading CS 301 Examples Used in Lectures</p>
-<blockquote>
-<div><ul class="simple">
-<li>Follow the concepts in this video related to obtaining the examples.  They may be slightly different for Linux <a class="reference external" href="https://k-state.instructure.com/courses/36925/files/3539894/download?wrap=1">Quick Start Video</a></li>
-</ul>
-</div></blockquote>
-</div>
-</div>
-<div class="section" id="using-logika-via-the-k-state-cs-laboratories">
-<h2>Using Logika via the K-State CS Laboratories<a class="headerlink" href="#using-logika-via-the-k-state-cs-laboratories" title="Permalink to this headline">¶</a></h2>
-<p>Sireum Logika is installed in all CS labs (e.g., 1114 and 1117 Engineering Hall).
-These machines can also be accessed from your personal machine using the Remote Desktop Protocol (RDP)
-(for this method, you need an RDP client on your personal machine, then you point it to the appropriate CS RDP
-servers corresponding to lab machines).</p>
-<div class="section" id="cs-windows-machines">
-<h3>CS Windows Machines<a class="headerlink" href="#cs-windows-machines" title="Permalink to this headline">¶</a></h3>
-<p>In a CS Windows machine (including Windows RDP server <code class="docutils literal"><span class="pre">remote.win.cs.ksu.edu</span></code>),
-Sireum IVE can be launched by using the start menu item <code class="docutils literal"><span class="pre">Sireum</span></code> (or <code class="docutils literal"><span class="pre">Sireum32</span></code>
-for the 32-bit version) or by issuing the command-line <code class="docutils literal"><span class="pre">idea64</span></code> or <code class="docutils literal"><span class="pre">idea</span></code>.
-Sireum CLI can be launched by issuing the command-line <code class="docutils literal"><span class="pre">sireum</span></code>.</p>
-<p>The absolute path to <code class="docutils literal"><span class="pre">SIREUM_HOME</span></code> is <code class="docutils literal"><span class="pre">\\files.cs.ksu.edu\santos\sireum\win64</span></code>.</p>
-</div>
-<div class="section" id="cs-linux-machines">
-<h3>CS Linux Machines<a class="headerlink" href="#cs-linux-machines" title="Permalink to this headline">¶</a></h3>
-<p>In a CS Linux machine (including using <code class="docutils literal"><span class="pre">ssh</span> <span class="pre">-X</span></code> or using
-the faster remote desktop protocal <a class="reference external" href="wiki.x2go.org/">X2Go</a> to <code class="docutils literal"><span class="pre">cslinux.cs.ksu.edu</span></code>,
-Sireum IVE can be launched by issuing the command-line <code class="docutils literal"><span class="pre">idea</span></code>.</p>
-<p>The absolute path to <code class="docutils literal"><span class="pre">SIREUM_HOME</span></code> is <code class="docutils literal"><span class="pre">/research/santos/sireum/linux64</span></code>.</p>
-</div>
-<div class="section" id="cs-rdp-macos-server">
-<h3>CS RDP macOS Server<a class="headerlink" href="#cs-rdp-macos-server" title="Permalink to this headline">¶</a></h3>
-<p>In the CS RDP macOS server <code class="docutils literal"><span class="pre">remote-mac.cs.ksu.edu`,</span>
-<span class="pre">Sireum</span> <span class="pre">IVE</span> <span class="pre">can</span> <span class="pre">be</span> <span class="pre">launched</span> <span class="pre">by</span> <span class="pre">double-clicking</span> <span class="pre">the</span> <span class="pre">``Sireum</span></code> icon in <code class="docutils literal"><span class="pre">/Applications</span></code>
-or by issuing the command-line: <code class="docutils literal"><span class="pre">open</span> <span class="pre">/Applications/Sireum.app</span></code>.
-Sireum CLI can be launched by issuing the command-line <code class="docutils literal"><span class="pre">sireum</span></code>.</p>
-<p>The absolute path to <code class="docutils literal"><span class="pre">SIREUM_HOME</span></code> is <code class="docutils literal"><span class="pre">/Applications/Sireum.app/Contents/Resources/sireum-v3</span></code>.</p>
-</div>
-</div>
-<div class="section" id="installing-remote-desktop-clients-to-access-cs-lab-machines-from-your-personal-machine">
-<h2>Installing Remote Desktop Clients to Access CS Lab Machines from your Personal Machine<a class="headerlink" href="#installing-remote-desktop-clients-to-access-cs-lab-machines-from-your-personal-machine" title="Permalink to this headline">¶</a></h2>
-<p>If you plan to use Remote Desktop Protocol (RDP) to access Logika on CS Lab machines from your personal machine,
-you can download the appropriate free client for your machine OS:</p>
-<ul class="simple">
-<li><a class="reference external" href="https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417">Microsoft Remote Desktop for macOS</a></li>
-<li><a class="reference external" href="https://www.microsoft.com/en-us/store/p/microsoft-remote-desktop/9wzdncrfj3ps">Microsoft Remote Desktop for Windows</a></li>
-<li>Linux:<ul>
-<li><a class="reference external" href="http://www.remmina.org/wp/">Remmina</a></li>
-<li><a class="reference external" href="http://www.rdesktop.org">Rdesktop</a></li>
-<li><a class="reference external" href="http://www.realvnc.com/">RealVNC</a></li>
-<li><a class="reference external" href="http://tigervnc.org">TigerVNC</a></li>
-<li><a class="reference external" href="http://projects.gnome.org/vinagre/">Vinagre</a></li>
-<li><a class="reference external" href="https://www.kde.org/applications/internet/krdc">Krdc</a></li>
-</ul>
-</li>
-</ul>
-</div>
-<div class="section" id="installing-x2go-clients-to-access-cs-linux-lab-machines-from-your-personal-machine">
-<h2>Installing X2Go Clients to Access CS Linux Lab Machines from your Personal Machine<a class="headerlink" href="#installing-x2go-clients-to-access-cs-linux-lab-machines-from-your-personal-machine" title="Permalink to this headline">¶</a></h2>
-<p>X2Go clients for various OSes can be downloaded from: <a class="reference external" href="http://wiki.x2go.org/doku.php/download:start">http://wiki.x2go.org/doku.php/download:start</a></p>
 </div>
 </div>
 

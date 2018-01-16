@@ -23,20 +23,13 @@ logics.  Logika is part of a much larger analysis and verification framework dev
 There are two ways of getting set up to use Logika (actually, these methods also provide the entire Sireum framework, but we will only use and talk about the Logika part):
 
 * [Personal installation] You can install it own your own computer
-* [CS Lab installation (direct use and remote desk top)] You can use it via the K-State CS Lab machines (see below for different OS options).
+* [CS Lab installation (direct use and remote desk top)] You can use it via the K-State CS Lab machines
 
 Logika can be used in a nice IntelliJ-based Integrated Verification Environment (Sireum/Logika IVE) (this is what we recommend for doing
 all your classroom exercises and homework).
-There is also a way to call Logika from the command line using its command line interface (Sireum/Logika CLI).
+There is also a way to call Logika from the command line using its command line interface (Sireum/Logika CLI) (you can use this if you love command line interfaces, but we recommend the IVE).
 
-In summary,
-
-* choose your method of use for Logika (personal installation, CS lab direct use, CS lab remote desktop)
-* complete the "quick start" guides above for installing/configuring and confirming that you can use Logika as needed for class activities.
-
-If you want to do a custom installation of Logika (e.g., install from sources, install IVE into an existing installation of IntelliJ,
-use the Logika CLI, etc.), you can find how to do that in the complete `Logika Documentation <http://logika.sireum.org/doc/index.html>`__
-
+Please follow the installation instructions on the `Logika web site <http://logika.sireum.org/doc/01-getting-started/index.html>`__
 
 Z3
 **
@@ -56,111 +49,3 @@ Many interesting analysis, verification, and testing tools (including tools deve
 * `Website <https://github.com/z3prover/z3/wiki>`__
 * `Introductory video <https://channel9.msdn.com/blogs/peli/the-z3-constraint-solver>`__
 
-Using Logika on your Own Machine
-********************************
-
-Windows
-=======
-
-Installing
-
- - `Quick Start Video <https://k-state.instructure.com/courses/36925/files/3539890/download?wrap=1>`__ (must authenticate with KSOL to watch video)
- - (alternatively) Read the instructions for Windows in `Section 1.1.1.1 <http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-windows>`__ of the Logika documentation
-
-Downloading CS 301 Examples Used in Lectures
-
- - `Quick Start Video <https://k-state.instructure.com/courses/36925/files/3539894/download?wrap=1>`__
-
-Mac
-===
-
-Installing
-
- - Read the instructions for Mac in `Section 1.1.1.1 <http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-macos>`__ of the Logika documentation
-
-Downloading CS 301 Examples Used in Lectures
-
- - Follow the concepts in this video related to obtaining the examples.  They may be slightly different for Mac `Quick Start Video <https://k-state.instructure.com/courses/36925/files/3539894/download?wrap=1>`__
-
-
-Linux
-=====
-
-Installing
-
- - Read the instructions for Linux in `Section 1.1.1.1 <http://logika.sireum.org/doc/01-getting-started/index.html#sireum-ive-for-linux>`__ of the Logika documentation
-
-Downloading CS 301 Examples Used in Lectures
-
- - Follow the concepts in this video related to obtaining the examples.  They may be slightly different for Linux `Quick Start Video <https://k-state.instructure.com/courses/36925/files/3539894/download?wrap=1>`__
-
-
-
-Using Logika via the K-State CS Laboratories
-********************************************
-
-Sireum Logika is installed in all CS labs (e.g., 1114 and 1117 Engineering Hall).
-These machines can also be accessed from your personal machine using the Remote Desktop Protocol (RDP)
-(for this method, you need an RDP client on your personal machine, then you point it to the appropriate CS RDP
-servers corresponding to lab machines).
-
-CS Windows Machines
-===================
-
-In a CS Windows machine (including Windows RDP server ``remote.win.cs.ksu.edu``),
-Sireum IVE can be launched by using the start menu item ``Sireum`` (or ``Sireum32``
-for the 32-bit version) or by issuing the command-line ``idea64`` or ``idea``.
-Sireum CLI can be launched by issuing the command-line ``sireum``.
-
-The absolute path to ``SIREUM_HOME`` is ``\\files.cs.ksu.edu\santos\sireum\win64``.
-
-
-CS Linux Machines
-=================
-
-In a CS Linux machine (including using ``ssh -X`` or using
-the faster remote desktop protocal `X2Go <wiki.x2go.org/>`__ to ``cslinux.cs.ksu.edu``,
-Sireum IVE can be launched by issuing the command-line ``idea``.
-
-The absolute path to ``SIREUM_HOME`` is ``/research/santos/sireum/linux64``.
-
-
-CS RDP macOS Server
-===================
-
-In the CS RDP macOS server ``remote-mac.cs.ksu.edu`,
-Sireum IVE can be launched by double-clicking the ``Sireum`` icon in ``/Applications``
-or by issuing the command-line: ``open /Applications/Sireum.app``.
-Sireum CLI can be launched by issuing the command-line ``sireum``.
-
-The absolute path to ``SIREUM_HOME`` is ``/Applications/Sireum.app/Contents/Resources/sireum-v3``.
-
-
-Installing Remote Desktop Clients to Access CS Lab Machines from your Personal Machine
-************************************************************
-
-If you plan to use Remote Desktop Protocol (RDP) to access Logika on CS Lab machines from your personal machine,
-you can download the appropriate free client for your machine OS:
-
-* `Microsoft Remote Desktop for macOS <https://itunes.apple.com/us/app/microsoft-remote-desktop/id715768417>`__
-
-* `Microsoft Remote Desktop for Windows <https://www.microsoft.com/en-us/store/p/microsoft-remote-desktop/9wzdncrfj3ps>`__
-
-* Linux:
-
-  * `Remmina <http://www.remmina.org/wp/>`__
-
-  * `Rdesktop <http://www.rdesktop.org>`__
-
-  * `RealVNC <http://www.realvnc.com/>`__
-
-  * `TigerVNC <http://tigervnc.org>`__
-
-  * `Vinagre <http://projects.gnome.org/vinagre/>`__
-
-  * `Krdc <https://www.kde.org/applications/internet/krdc>`__
-
-Installing X2Go Clients to Access CS Linux Lab Machines from your Personal Machine
-***************************************************************
-
-X2Go clients for various OSes can be downloaded from: http://wiki.x2go.org/doku.php/download:start

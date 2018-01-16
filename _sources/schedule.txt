@@ -50,12 +50,7 @@ Schedule
        * `Introduction: Why Bother? <https://drive.google.com/open?id=0B2v9RmdjXXbUVkJBWW5kRmlRV2c>`__
          [`study guide <https://drive.google.com/file/d/0B3opDhlww1AXZVBFLXNtdXN2WXM/>`__]
      - * Reading: `Introduction: Why Bother? <http://logika.sireum.org/dschmidt/01-introduction/>`__
-       * Tool: Install `Logika <http://logika.sireum.org>`__ `CLI <http://logika.sireum.org/doc/01-getting-started/index.html#using-sireum-v3-binary-distribution>`__
-         and `IntelliJ plugin <http://logika.sireum.org/doc/02-live/index.html#live-install>`__
-         (see installation videos for the
-         `CLI <http://files.sireum.org/media/logika-cli.mp4>`_
-         and the
-         `plugin <http://files.sireum.org/media/logika-ive.mp4>`__)
+       * Tool: (Updated instructions coming by the end of the day January 16)
    * - 1. U: Jan 18
      - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B2v9RmdjXXbUOWVkSlJYdGhFTlk>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__, `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUVUdQWXVMZThSalk>`__, `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUNTltZ3UtSkp2QkU>`__, `study guide <https://drive.google.com/open?id=0B3opDhlww1AXSzNmalBJRGl2S3c>`__]

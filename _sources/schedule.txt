@@ -45,8 +45,8 @@ Schedule
      - Lecture
      - Remarks
    * - 1. T: Jan 16
-     - * `Course Administration <https://drive.google.com/open?id=0B2v9RmdjXXbULWZIT0lybzEwZ28>`__
-         [`video <https://drive.google.com/open?id=0B2v9RmdjXXbUSmMycjJfdm45U0k>`__]
+     - * `Course Administration <https://drive.google.com/open?id=1pBH7APAGuB80k1pAz-isvEOOWeIy_LFs>`__
+         [video -- forthcoming]
        * `Introduction: Why Bother? <https://drive.google.com/open?id=0B2v9RmdjXXbUVkJBWW5kRmlRV2c>`__
          [`study guide <https://drive.google.com/file/d/0B3opDhlww1AXZVBFLXNtdXN2WXM/>`__]
      - * Reading: `Introduction: Why Bother? <http://logika.sireum.org/dschmidt/01-introduction/>`__

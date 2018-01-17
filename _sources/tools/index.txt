@@ -11,6 +11,21 @@ Tools
 
 ----
 
+Git Hub
+*************
+
+Distribution of starting files for assignements and assignment submission will be organized through Git Hub.
+You need to complete the following steps:
+
+* Create a GitHub account (if you already have an account, you can reuse your existing account)
+* Ensure that Git is installed on your computer as appropriate for your operating system (e.g., use GitBash for Windows)
+* Register your GitHub account with the CS 301 TAs using this `form <https://goo.gl/forms/9LDwd1y8ynnz8Joy1>`__ to ensure your own personal 301 HW GitHub repo is created for you.
+* Wait for invitation from CS 301 TAs
+* Accept invitation
+* Clone your repo
+
+You will be able to access the local version of your repo through the Sireum IVE to carry out HW retreival and submission.
+
 Sireum Logika
 *************
 
@@ -29,7 +44,9 @@ Logika can be used in a nice IntelliJ-based Integrated Verification Environment 
 all your classroom exercises and homework).
 There is also a way to call Logika from the command line using its command line interface (Sireum/Logika CLI) (you can use this if you love command line interfaces, but we recommend the IVE).
 
-Please follow the installation instructions on the `Logika web site <http://logika.sireum.org/doc/01-getting-started/index.html>`__
+For a Personal Installation, please follow the installation instructions on the `Logika web site <http://logika.sireum.org/doc/01-getting-started/index.html>`__
+
+Instructions for using the CS Lab installation will be posted soon.
 
 Z3
 **

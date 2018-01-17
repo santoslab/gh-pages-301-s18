@@ -22,7 +22,7 @@ You need to complete the following steps:
 * Register your GitHub account with the CS 301 TAs using this `form <https://goo.gl/forms/9LDwd1y8ynnz8Joy1>`__ to ensure your own personal 301 HW GitHub repo is created for you.
 * Wait for invitation from CS 301 TAs
 * Accept invitation
-* Clone your repo
+* Clone your repo (this may be best done via IntelliJ after the Sireum IVE is installed)
 
 You will be able to access the local version of your repo through the Sireum IVE to carry out HW retreival and submission.
 

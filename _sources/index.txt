@@ -30,11 +30,9 @@ The focus will be on formal logics for reasoning about program behavior.
                                                     Office:       2183 |EngHall|,
                                                     Office Hours: 12:20-1pm Tuesday and Thursday,
 **Teaching Assistant**                              Joshua Donnoe,
-                                                    Office:
                                                     Office Hours: DUR1061, 9:30 - 10:45 AM, Tuesday/Thurday
 **Teaching Assistant**                              George (Bud) LaVezzi,
-                                                    Office:       1117 |EngHall|, 8:30-930 AM Monday/Wednesday/Friday
-                                                    Office Hours: (to be announced)
+                                                    Office Hours: 1117 |EngHall|, 8:30-930 AM Monday/Wednesday/Friday
 **E-mail**                                          ``help-301@santoslab.org`` (for quick questions and appointments)
                          
 ==================================================  ====================================================================

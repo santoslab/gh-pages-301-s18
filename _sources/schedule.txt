@@ -15,7 +15,7 @@ Schedule
 
 **Links:**
 
-* `Slides <https://drive.google.com/open?id=0B3opDhlww1AXejdaRFBSUXJVTEE>`__
+* `Slides <https://drive.google.com/open?id=0B2v9RmdjXXbUUVQxSjNNOXIyRk0>`__
 
 * Examples:
 
@@ -27,13 +27,6 @@ Schedule
 
   * `Program Logic <https://github.com/sireum/v3-logika-examples/tree/release/src/programming>`__
 
-  * `More ... <https://github.com/ksu-cis-301/301f16/tree/master/examples>`__
-
-* `Exercises <https://github.com/ksu-cis-301/301f16/blob/master/exercises/>`__
-
-* `FYTDs <https://github.com/ksu-cis-301/301f16/blob/master/fytds>`__
-
-* `Study Guides <https://drive.google.com/drive/folders/0B3opDhlww1AXM3kyUk1xb3pCd0E>`__
 
 ----
 

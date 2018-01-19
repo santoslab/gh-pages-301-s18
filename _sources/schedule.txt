@@ -48,7 +48,11 @@ Schedule
        * Tool setup: (see `Tools <http://s18.proglogics.santoslab.org/tools/index.html>`__)
    * - 1. U: Jan 18
      - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B2v9RmdjXXbUOWVkSlJYdGhFTlk>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__, `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUVUdQWXVMZThSalk>`__, `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUNTltZ3UtSkp2QkU>`__, `study guide <https://drive.google.com/open?id=0B3opDhlww1AXSzNmalBJRGl2S3c>`__]
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
+         `FYTD #1 solution <https://drive.google.com/open?id=1ToqFJqHS3EE-K9--7pUzyc6FjO0H2auk>`__,
+         `FYTD #1 circuit diagram <https://drive.google.com/open?id=11s_i6Oz4t7jX_MBvVfVvh8-jPywv1_Fn>`__,
+         `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUNTltZ3UtSkp2QkU>`__,
+         `study guide <https://drive.google.com/open?id=0B3opDhlww1AXSzNmalBJRGl2S3c>`__]
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
        * HW 1 Assigned
    * - 2. T: Jan 23

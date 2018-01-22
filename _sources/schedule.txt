@@ -54,7 +54,8 @@ Schedule
          `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUNTltZ3UtSkp2QkU>`__,
          `study guide <https://drive.google.com/open?id=0B3opDhlww1AXSzNmalBJRGl2S3c>`__]
      - * Reading: `Circuits and Truth Tables <http://logika.sireum.org/dschmidt/02-circuits-truth-tables/>`__
-       * HW 1 Assigned
+       * HW 1 Assigned (see the Assignments section of 301 Canvas) `HW 1 direct link <https://k-state.instructure.com/courses/54541/assignments/587904>`__)
+         Due Friday, January 26 at 11:59pm
    * - 2. T: Jan 23
      - * `Circuits and Truth Tables <https://drive.google.com/open?id=0B2v9RmdjXXbUOWVkSlJYdGhFTlk>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,

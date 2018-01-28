@@ -119,7 +119,7 @@ Schedule
 
          * `Applications of Propositional Logic to Program Proving (Section 7.5) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#implies-introduction-and-implies-elimination>`__
          * `Applications of Propositional Logic to Program Proving (Section 7.6 - 7.7) <http://logika.sireum.org/dschmidt/07-propositional-logic/index.html#negation>`__
-         * **Instructor Travel (Department of Homeland Security research meeting)**
+       * **Instructor Travel (Department of Homeland Security research meeting)**
    * - 5. U: Feb 15
      - * `Natural Deduction -- Negation <https://drive.google.com/open?id=0B2v9RmdjXXbUX1B1RzJ4dV9jZFE>`__
          [`Lecture video: Bottom Elimination Rule <https://drive.google.com/open?id=0B2v9RmdjXXbUb2tfRDI1YWEyOW8>`__,

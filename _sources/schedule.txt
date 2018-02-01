@@ -155,7 +155,6 @@ Schedule
          `FYTD #2-1 <https://drive.google.com/open?id=0B2v9RmdjXXbUWUVKNVVNVUFCVE0>`__,
          `FYTD #2-2 <https://drive.google.com/open?id=0B2v9RmdjXXbUNTRnYkJTZFBhSFk>`__]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
-       * **Instructor Travel (Department of Homeland Security research meeting)**
    * - 7. T: Feb 27
      - * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUNFZwS29hMWlYYk0>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/predicate>`__,
@@ -199,7 +198,6 @@ Schedule
          `conditional #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__,
          `conditional #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-2.logika>`__]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
-       * **Instructor Travel (Research meeting with Draeger in Germany)**
    * - 10. U: Mar 29
      - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
          [`loop #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/loop-1.logika>`__,

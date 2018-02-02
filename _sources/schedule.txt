@@ -83,7 +83,7 @@ Schedule
          * `Logic and Critical Reasoning (Chapter 6 only) <https://drive.google.com/open?id=0B3opDhlww1AXUFdsa2luRm40RFk>`__
    * - 3. U: Feb 1
      - * `Automatic Reasoning for Propositional Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUTXZta1dUX0FEZVk>`__
-         [`example <https://github.com/ksu-cis-301/301f16/blob/master/examples/NatDed-02-Automatic-Reasoning-for-Propositional-Logic.smt>`__,
+         [`example <https://drive.google.com/open?id=1ZNX9UhclnhYpQvIUGunfBBOfnYn1HnJT>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUN1J4a3hrVUF0VnM>`__,
          `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUem9Cdnh4ZzNVb2c>`__,
          `FYTD #3 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUblZBTDZIQm1YcGM>`__,

@@ -86,10 +86,12 @@ Schedule
          [`example <https://drive.google.com/open?id=1ZNX9UhclnhYpQvIUGunfBBOfnYn1HnJT>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUN1J4a3hrVUF0VnM>`__,
          `FYTD #2 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUem9Cdnh4ZzNVb2c>`__,
-         `FYTD #3 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUblZBTDZIQm1YcGM>`__,
-         `FYTD #4 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUb0tkTXJaSzJaNE0>`__,
-         `FYTD #5 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUOC1SZTNYYllSQm8>`__,
-         `exercise <https://github.com/ksu-cis-301/301f16/blob/master/exercises/natural-deduction/NatDed-02X-Automatic-Reasoning-for-Propositional-Logic.smt>`__]
+         `FYTD #3 solution (building truth tables) <https://drive.google.com/open?id=0B2v9RmdjXXbUblZBTDZIQm1YcGM>`__,
+         `FYTD #4 solution (checking tautologies) <https://drive.google.com/open?id=0B2v9RmdjXXbUb0tkTXJaSzJaNE0>`__,
+         `FYTD #5 solution (sequents, validity, equivalences) <https://drive.google.com/open?id=0B2v9RmdjXXbUOC1SZTNYYllSQm8>`__,
+         `Exercises <https://drive.google.com/open?id=1UBBgIW0z_2vQoTvV4ziaYckTZoIIwsAs>`__,
+         Guided Exercise: Basic SAT (`.txt <https://drive.google.com/open?id=1-ghjS44kgKpnDGV2c-_CA3j2vKrlW3DO>`__, `video <https://drive.google.com/open?id=1xREAu6WMh65Ihbh7vihkifSDfRCl64HF>`__),
+         Guided Exercise: Finding more models and building truth tables (`.txt <https://drive.google.com/open?id=1b914RbIYXJzFdxfSHtv1EqmsjQzD0DKM>`__, `video <https://drive.google.com/open?id=1XPvuhawGqFXGbozG9ffKbyKKt-aelcG->`__)]
      - * Reading: `Z3's Guide <http://rise4fun.com/Z3/tutorial/guide>`__
          (up to Section 3 on Propositional Logic)
    * - 4. T: Feb 6

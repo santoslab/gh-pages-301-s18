@@ -69,14 +69,15 @@ Schedule
          [`FYTD #1a solution <https://drive.google.com/open?id=0B2v9RmdjXXbUSUtQTGtiMXdRUW8>`__,
          `FYTD #1b solution <https://drive.google.com/open?id=0B2v9RmdjXXbUVjBlbDdGVWg5Tm8>`__,
          `example <https://github.com/sireum/v3-logika-examples/tree/release/src/truthtable>`__,
-         `study guide <https://drive.google.com/open?id=0B3opDhlww1AXUEVSVFJHVzJMWW8>`__]
+         `study guide <https://drive.google.com/open?id=1dkO8XXGNLawmf756zr38mbu__1H6NcSL>`__]
      - * Reading (from `Logic in Action <http://www.logicinaction.org>`__):
 
          * `Chapter 2. Propositional Logic <https://drive.google.com/open?id=0B3opDhlww1AXMlR2VTVGekx3Y1k>`__
          * Optional: `Chapter 3. Syllogistic Reasoning <https://drive.google.com/open?id=0B3opDhlww1AXRmhKSlNEWTVhQUk>`__
    * - 3. T: Jan 30
      - * `English Language to Propositional Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUWEFiSlljSDFwQms>`__
-         [`FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUdjRzV0ZLUUhIcXM>`__]
+         [`FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUdjRzV0ZLUUhIcXM>`__,
+         `study guide <https://drive.google.com/open?id=1IhKNbBVVt-wyYtzdm328VIyBU3LV5mZK>`__]
      - * Reading:
 
          * `Translating Between English and Propositional Logic (Scott Martin, Ohio State) <https://drive.google.com/open?id=0B2v9RmdjXXbUUUVYNFAxWXBUQ2s>`__;
@@ -96,6 +97,7 @@ Schedule
          (up to Section 3 on Propositional Logic)
    * - 4. T: Feb 6
      - * `Introduction to Natural Deduction <https://drive.google.com/open?id=0B2v9RmdjXXbUV2M2N3ZyMUQ1SEE>`__
+         [`study guide <https://drive.google.com/open?id=1fb63FQ6X5wkxkXPrRVyuFcMBuX-i3Syf>`__]
        * `Natural Deduction -- And <https://drive.google.com/open?id=0B3opDhlww1AXVHpiRjlOWmhZQzg>`__
          [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/propositional/and>`__,
          `FYTD #1 solution <https://drive.google.com/open?id=0B2v9RmdjXXbUaUp1dHZQdWVsVDg>`__]

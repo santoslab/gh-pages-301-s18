@@ -140,7 +140,7 @@ Schedule
    * - 6. T: Feb 20
      - * `Curry-Howard Isomorphism <https://drive.google.com/open?id=0B2v9RmdjXXbUWDJoYlExVGNZUDA>`__
          [`Lecture video <https://drive.google.com/open?id=0B2v9RmdjXXbUYmFaWVB1Z0FjMGc>`__,
-         `examples <https://github.com/sireum/v3-logika-examples/blob/release/src/propositional/curry-howard-isomorphism.sc>`__]
+         `examples <https://drive.google.com/open?id=18IdPnLkmyp7qVMp_He091-R6Jtoha90P>`__]
      - * Optional Background Reading: `Classical vs. Constructive Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUaUQzSlBvX29BWW8>`__
        * `Exercises <https://github.com/ksu-cis-301/301f16/tree/master/exercises/natural-deduction>`__
    * - 6. U: Feb 22

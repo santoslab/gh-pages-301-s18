@@ -202,35 +202,29 @@ Schedule
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [Lecture video: `(part b) <https://drive.google.com/open?id=0B2v9RmdjXXbUWUQ4TElHMzFtb0U>`__,
          `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
-       * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
+     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
+   * - 10. U: Mar 29
+     - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
+         [Lecture video: `(part b) <https://drive.google.com/open?id=0B2v9RmdjXXbUWUQ4TElHMzFtb0U>`__,
+         `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
+     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
+   * - 11. T: Apr 3
+     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
          [Lecture video: `(conditionals - part a) <https://drive.google.com/open?id=0B2v9RmdjXXbUSW10V3h4VXA3U2c>`__,
          `conditional #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-1.logika>`__,
          `conditional #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/conditional-2.logika>`__]
-     - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
-   * - 10. U: Mar 29
-     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
-         [`loop #1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/loop-1.logika>`__,
-         `loop #2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/loop-2.logika>`__]
-     - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
-   * - 11. T: Apr 3
-     - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
-         [`loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXbmRScXNtODlJa2s>`__,
+       * [`loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXbmRScXNtODlJa2s>`__,
          `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/>`__,
          `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
-       * `Sequences <https://drive.google.com/open?id=0B3opDhlww1AXdkRHRnBjd3JMY0U>`__
-         [`#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
-         `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
-         `#3 (manual) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/sequence-3.logika>`__,
-         `#3 (auto) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/sequence-3.logika>`__,
-         `#3 (symexe) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-3.logika>`__,
-         `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
-     -
+     - * Reading: `Loop, Invariants, Induction <http://logika.sireum.org/dschmidt/06-loops-invariants-induction/index.html>`__
    * - 11. U: Apr 5
      - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
          [`loop invariants recipe <https://drive.google.com/open?id=0B3opDhlww1AXbmRScXNtODlJa2s>`__,
          `auto <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/>`__,
          `symexe <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__]
-       * `Sequences <https://drive.google.com/open?id=0B3opDhlww1AXdkRHRnBjd3JMY0U>`__
+     -
+   * - 12. T: Apr 10
+     - * `Sequences <https://drive.google.com/open?id=0B3opDhlww1AXdkRHRnBjd3JMY0U>`__
          [`#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
          `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
          `#3 (manual) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/sequence-3.logika>`__,
@@ -238,12 +232,14 @@ Schedule
          `#3 (symexe) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-3.logika>`__,
          `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
      -
-   * - 12. T: Apr 10
-     - * Review for Exam 2
-     -
    * - 12. U: Apr 12
-     - * `Exam 2 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam2>`__
-         [`references <https://drive.google.com/open?id=0B3opDhlww1AXUl9KZE0tR2hWQkk>`__]
+     - * `Sequences <https://drive.google.com/open?id=0B3opDhlww1AXdkRHRnBjd3JMY0U>`__
+         [`#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
+         `#2 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-1.logika>`__,
+         `#3 (manual) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/sequence-3.logika>`__,
+         `#3 (auto) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/auto/sequence-3.logika>`__,
+         `#3 (symexe) <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-3.logika>`__,
+         `#4 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/sequence-4.logika>`__]
      -
    * - 13. T: Apr 17
      - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXbkVOWFhYUXVRVDg>`__
@@ -255,10 +251,9 @@ Schedule
          `java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Bank.java>`__]
      - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
    * - 14. T: Apr 24
-     - * `Functions and Procedures <https://drive.google.com/open?id=0B3opDhlww1AXbkVOWFhYUXVRVDg>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/symexe/>`__,
-         `java <https://github.com/ksu-cis-301/301f16/blob/master/examples/Bank.java>`__]
-     - * Reading: `Functions and Procedures <http://logika.sireum.org/dschmidt/05-functions-procedures/index.html>`__
+     - * `Exam 2 <https://github.com/ksu-cis-301/301f16/tree/master/exams/exam2>`__
+         [`references <https://drive.google.com/open?id=0B3opDhlww1AXUl9KZE0tR2hWQkk>`__]
+     -
    * - 14. U: Apr 26
      - * `Recursion <https://drive.google.com/open?id=0B3opDhlww1AXUUE5NnpUWHhtTTQ>`__
          [examples: `#1 <https://github.com/sireum/v3-logika-examples/blob/release/src/programming/manual/recursion-1.logika>`__,

@@ -169,7 +169,7 @@ Schedule
          `FYTD #1-1 <https://drive.google.com/open?id=0B2v9RmdjXXbUWXJ3bFhudEpwaTQ>`__,
          `FYTD #1-2 <https://drive.google.com/open?id=0B2v9RmdjXXbUeUJLQXpUbEs0TkE>`__,
          `FYTD #2-1 <https://drive.google.com/open?id=0B2v9RmdjXXbUWUVKNVVNVUFCVE0>`__,
-         `FYTD #2-2 <https://drive.google.com/open?id=0B2v9RmdjXXbUNTRnYkJTZFBhSFk>`__]
+         `FYTD #2-2 <https://drive.google.com/open?id=17iMHFM-b1xewmVoccFjIlkb8T1LBjlhL>`__]
      -
    * - 8. T: Mar 6
      - * `Introduction to Predicate Logic <https://drive.google.com/open?id=0B2v9RmdjXXbUNFZwS29hMWlYYk0>`__
@@ -178,7 +178,7 @@ Schedule
          `FYTD #1-1 <https://drive.google.com/open?id=0B2v9RmdjXXbUWXJ3bFhudEpwaTQ>`__,
          `FYTD #1-2 <https://drive.google.com/open?id=0B2v9RmdjXXbUeUJLQXpUbEs0TkE>`__,
          `FYTD #2-1 <https://drive.google.com/open?id=0B2v9RmdjXXbUWUVKNVVNVUFCVE0>`__,
-         `FYTD #2-2 <https://drive.google.com/open?id=0B2v9RmdjXXbUNTRnYkJTZFBhSFk>`__]
+         `FYTD #2-2 <https://drive.google.com/open?id=17iMHFM-b1xewmVoccFjIlkb8T1LBjlhL>`__]
      - * Reading: `The Predicate-Logic Quantifiers <http://logika.sireum.org/dschmidt/08-predicate-logic/index.html>`__ (up to Section 8.2)
    * - 8. U: Mar 8
      - * `Algebra <https://drive.google.com/open?id=0B3opDhlww1AXZ2hvM2FubElmM0k>`__
@@ -204,7 +204,7 @@ Schedule
          `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
        * HW 5 Assigned (see the Assignments section of 301 Canvas) `HW 5 direct link <https://k-state.instructure.com/courses/54541/assignments/587936>`__,
-         Deadline Wednesday, April 4, 11:59pm 
+         Deadline Wednesday, April 4, 11:59pm
    * - 10. U: Mar 29
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [Lecture video: `(part b) <https://drive.google.com/open?id=0B2v9RmdjXXbUWUQ4TElHMzFtb0U>`__,

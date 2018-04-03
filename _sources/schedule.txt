@@ -193,7 +193,9 @@ Schedule
      - * Reading: (none)
    * - 9. U: Mar 15
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
-         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
+         [`examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__,
+         FYTD #1 (`starting file <https://drive.google.com/open?id=1oEt7FJvyiNQwBzxoAGvJrrmbow7722xM>`__, `solution <https://drive.google.com/open?id=1z-k4nwBdxR0U6YA0uNgkBgp8dFsSCVjj>`__),
+         FYTD #2 (`starting file <https://drive.google.com/open?id=1pKZbnGEuUFQkm-K9qav3kdllzQk-BAod>`__, `solution <https://drive.google.com/open?id=1ZHOW1-QoBIQh7nRhyX6tOL1dMTusYLWO>`__)]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html>`__ (up to Section 4.1)
    * - A. **Spring Break**
      -
@@ -201,14 +203,18 @@ Schedule
    * - 10. T: Mar 27
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [Lecture video: `(part b) <https://drive.google.com/open?id=0B2v9RmdjXXbUWUQ4TElHMzFtb0U>`__,
-         `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
+         `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__,
+         FYTD #1 (`starting file <https://drive.google.com/open?id=1oEt7FJvyiNQwBzxoAGvJrrmbow7722xM>`__, `solution <https://drive.google.com/open?id=1z-k4nwBdxR0U6YA0uNgkBgp8dFsSCVjj>`__),
+         FYTD #2 (`starting file <https://drive.google.com/open?id=1pKZbnGEuUFQkm-K9qav3kdllzQk-BAod>`__, `solution <https://drive.google.com/open?id=1ZHOW1-QoBIQh7nRhyX6tOL1dMTusYLWO>`__)]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
        * HW 5 Assigned (see the Assignments section of 301 Canvas) `HW 5 direct link <https://k-state.instructure.com/courses/54541/assignments/587936>`__,
          Deadline Wednesday, April 4, 11:59pm
    * - 10. U: Mar 29
      - * `Programming Logic for Assignment <https://drive.google.com/open?id=0B3opDhlww1AXV3A0ZWlIZUd4aFE>`__
          [Lecture video: `(part b) <https://drive.google.com/open?id=0B2v9RmdjXXbUWUQ4TElHMzFtb0U>`__,
-         `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__]
+         `examples <https://github.com/sireum/v3-logika-examples/tree/release/src/programming/manual/>`__,
+         FYTD #1 (`starting file <https://drive.google.com/open?id=1oEt7FJvyiNQwBzxoAGvJrrmbow7722xM>`__, `solution <https://drive.google.com/open?id=1z-k4nwBdxR0U6YA0uNgkBgp8dFsSCVjj>`__),
+         FYTD #2 (`starting file <https://drive.google.com/open?id=1pKZbnGEuUFQkm-K9qav3kdllzQk-BAod>`__, `solution <https://drive.google.com/open?id=1ZHOW1-QoBIQh7nRhyX6tOL1dMTusYLWO>`__)]
      - * Reading: `Programming Logic for Assignments and Conditionals <http://logika.sireum.org/dschmidt/04-programming-logic/index.html#conditional-commands>`__ (Section 4.2)
    * - 11. T: Apr 3
      - * `Programming Logic for Conditionals and Loops <https://drive.google.com/open?id=0B3opDhlww1AXSWdMWHFWUFJ6b1E>`__
